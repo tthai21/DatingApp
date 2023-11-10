@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFJqGrlD0R9dvasGCgASHdzZXrmZ6JN+SGnDuXr0vf9xDtw5s3kFJps/2gVvwj1f97U/wQPdMyrI2xt9GqV5QA==",
+  "dgSpecHash": "7FDrceum/zr7fT6Rf11ZqbVuELit8tvBXiPyLYGG26uatYQmFU38wFu5M4bcgU06fUG5e+qzhX4C2YcwXLh11A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\C sharp\\Udemy Dotnet Angular\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C sharp\\Udemy Dotnet Angular\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
